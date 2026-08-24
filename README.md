@@ -104,15 +104,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=souracode&theme=react-dark&hide_border=true" alt="activity graph" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/souracode/souracode/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
-
-> 💡 To enable this: add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates this snake animation from your contribution graph.
 
 ---
 
