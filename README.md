@@ -262,54 +262,6 @@ Currently exploring:
 │ 🧠 Generative AI & LLM Applications               │
 │ 📱 Modern Full Stack Development                  │
 └──────────────────────────────────────────────────┘
-```
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=souracode&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" 
-    alt="Soura's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=souracode&layout=compact&hide_border=true&theme=radical&langs_count=8" 
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=souracode&theme=radical&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=souracode&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" 
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=souracode&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" 
-    alt="GitHub Trophies"
-  />
-</p>
 
 ---
 # 💼 Developer Journey
