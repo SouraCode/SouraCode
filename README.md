@@ -100,7 +100,7 @@ A real-time communication platform designed to allow users to connect and commun
 
 **Multi-purpose productivity platform**
 
-🔗 **Live:** https://alll-in-onee.netlify.app/
+🔗 **Live:** https://all-in-oneeee.netlify.app/
 
 A collection of useful productivity and creator tools brought together into a single web application.
 
