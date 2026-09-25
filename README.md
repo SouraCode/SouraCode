@@ -28,8 +28,8 @@ I work across the **frontend, backend, databases, APIs, authentication, cloud de
 * 🛠️ Enjoy designing APIs, authentication systems and complete application architectures.
 * 💡 I like taking a single idea and turning it into a complete working product.
 * 📚 Constantly learning new technologies and improving my development skills.
-* 👨‍💻 Portfolio: **[soura-portfolio.netlify.app](https://soura-portfolio.netlify.app/)**
-* 📫 Email: **[souraroymahapatra@gmail.com](mailto:souraroymahapatra@gmail.com)**
+* 👨‍💻 Portfolio: **[soura-portfolio.netlify.app](https://my-name-is-soura.netlify.app/)**
+* 📫 Email: **[souraroymahapatra@gmail.com](mailto:www.souraroymahapatra@gmail.com)**
 
 ---
 
